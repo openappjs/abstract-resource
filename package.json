@@ -1,0 +1,30 @@
+{
+  "name": "abstract-resource",
+  "version": "1.0.0",
+  "description": "a resource (store) reference implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openappjs/abstract-resource"
+  },
+  "keywords": [
+    "abstract",
+    "resource",
+    "store",
+    "reference",
+    "memory",
+    "service"
+  ],
+  "author": "",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/openappjs/abstract-resource/issues"
+  },
+  "homepage": "https://github.com/openappjs/abstract-resource",
+  "dependencies": {
+    "lodash-node": "^2.4.1"
+  }
+}
